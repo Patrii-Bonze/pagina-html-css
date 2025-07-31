@@ -1,0 +1,107 @@
+body {
+  margin: 0; 
+  font-family: Arial, sans-serif;
+  background-color: #4062bb;
+  color: #fff;
+  font-size: 16px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+header {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  padding: 10px 30px;
+  position: fixed;
+  width: 96%;
+  top: 0;
+  z-index: 10
+}
+
+.logo {
+  font-family: 'pacifico', cursive;
+  font-size: 32px;
+  color: #fff;
+  font-weight: normal;
+  transform: translateY(4px);
+  
+  -moz-osx-font-smoothing: grayscale;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+    position: relative;
+    height: 100vh;
+  padding-top: 70px;
+}
+
+.Conteudo {
+  position: fixed;
+  top: 50%;
+  left: 100px;
+  transform: translateY(-50%);
+  text-align: left;
+  max-width: 80%;
+}
+
+.texto-principal {
+  font-size: 60px;
+  font-weight: bold;
+  color: #fff;
+   margin-bottom: 41px;
+   margin-left: -8px;
+}
+
+.slogan {
+  font-size: 15px;
+  transform: translateY(-48px);
+  font-weight: bold;
+  margin-left: -9px;
+}
+
+.logo {
+  margin-left: 35px;
+  margin-top: 1px;
+}
+
+.baixe {
+  display: inline-block;
+  background-color: #ff007f;
+  color: #fff;
+  padding: 12px 24px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-35px);
+}
+
+.baixe:hover {
+  background-color: #e60073;
+}
+
+a{
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero-image {
+   margin-left: 350px;
+   position: fixed;
+   width: 575px;
+}
+
+
+
