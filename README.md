@@ -24,7 +24,7 @@ Este é um projeto de prática em desenvolvimento web, criado com **HTML** e **C
 
 Você pode:
 1. Baixar os arquivos e abrir o `index.html` no navegador;
-2. Ou visualizar online se tiver hospedado via GitHub Pages (ex: `https://seuusuario.github.io/nome-do-repo/`)
+2. Ou visualizar online se tiver hospedado via GitHub Pages (ex: `[https://seuusuario.github.io/nome-do-repo/](https://github.com/Patrii-Bonze/pagina-html-css.git)`)
 
 ---
 
