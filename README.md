@@ -18,7 +18,6 @@ Este é um projeto de prática em desenvolvimento web, criado com **HTML** e **C
 
 - O design não é autoral — foi utilizado apenas como **referência visual** para fins educacionais.
 - O projeto não possui interatividade com JavaScript.
-- Responsividade básica pode ou não ter sido aplicada (dependendo da sua implementação).
 
 ## 📁 Como visualizar
 
